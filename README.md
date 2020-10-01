@@ -1,4 +1,4 @@
-# WordPress
+# WordPress #scripts
 LAMP &amp; LEMP installation scripts and some other stuff for WordPress
 
 Introducing you scripts for automated LAMP & LEMP stacks installation with WordPress and HTTPS.
